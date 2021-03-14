@@ -1,4 +1,4 @@
-# Binary number conversion
+# Decimal to Binary number conversion
 
 n = int(input())
 bin_num = 0
