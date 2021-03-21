@@ -11,5 +11,5 @@ for i in range(3):
 for i in range(len(names)):
 	print(names[i], time[i])
 	
-a = '10+20+30'
+a = '10+20==30'
 print(eval(a))
