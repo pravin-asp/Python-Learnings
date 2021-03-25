@@ -20,7 +20,9 @@ print(addition(20, 30))
 # 2. map()
 # 3. reduce()
 
-# Nested Functions
+
+# Nested Functions in Python
+
 
 def outer():
 	print('I am in outer function')
