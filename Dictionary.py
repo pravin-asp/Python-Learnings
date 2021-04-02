@@ -57,7 +57,7 @@ print(d.get(12345)) # gives value as none
 # pop(key must be present) --> removes the value from the dictionary
 d.pop(1234)#removes the key and value
 print(d)
-
+op
 # item --> key, value pair
 # dictionary items or dictionary contains 4 items
 

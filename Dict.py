@@ -22,3 +22,4 @@ print()
 for key, value in dict.items():
 	if value == max(dict.values()):
 		print(key,'occurs', value, 'times which is the highest')
+		
