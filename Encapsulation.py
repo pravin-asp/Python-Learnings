@@ -7,6 +7,7 @@
 
 # protected --> within the same and inherited classes
 # protected --> _
+# private --> __ 
 
 class Test:
 	a = 100 # public variable
