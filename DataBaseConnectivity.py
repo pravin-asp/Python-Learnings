@@ -129,3 +129,5 @@ cursor.execute("DELETE from Student where Rollno = '2'")
 connection.commit()
 print('Total no of rows deleted:', connection.total_changes)
 connection.close()
+
+# update --> for updating the wrong values in the db
