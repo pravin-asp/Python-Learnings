@@ -31,3 +31,12 @@ name = input('Enter your name : ')
 print('lenght of name is %d'%len(name))
 mid = len(name) // 2
 print(name[: mid] + name[mid].upper() + name[mid + 1 :])
+
+
+print(__file__) # to print file name 
+
+import os
+print(os.path.abspath(__file__)) # gives the absolute path 
+
+
+print(os.path.dirname(os.path.abspath(__file__))) # gives the directory location alone
